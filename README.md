@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @adam-a-maker
 - 👀 I’m interested in robotics
-- 🌱 I’m currently learning C++
-- 📫 How to reach me : Mails, dam.abd000@gmail.com
+- 🌱 I’m currently learning C
+- I make projects whith esp32 and arduinos
+- I know python and c++
